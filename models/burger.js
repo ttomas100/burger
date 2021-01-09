@@ -18,6 +18,7 @@ var burger = {
             cb(res);
         });
     },
+
     deleteOne: function(id, callback) {
         orm.deleteOne(id, function(res) {
             callback(res);
