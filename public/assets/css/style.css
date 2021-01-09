@@ -1,0 +1,57 @@
+body {
+    background-image: url("../images/galaxy.jpg");
+    background-size: 100%;
+    background-color:	#000000;
+}
+
+.titleText {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    font-family: ''
+   
+}
+
+.miniHeading {
+    color: rgb(252, 247, 247);
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Cabin Condensed', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.addBurger {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.moveMe {
+    text-align: center;
+    margin: 0 auto 3% 0;
+
+}
+
+
+.showBurger {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+.nomoreBurger
+{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Cabin Condensed', sans-serif;
+
+}
+
+.btn {
+    padding-top: 0px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
